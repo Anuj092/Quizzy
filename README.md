@@ -14,8 +14,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![workflow](https://github.com/daniel-szulc/quizify/actions/workflows/pages/pages-build-deployment/badge.svg)
 
-[Live Demo](https://daniel-szulc.github.io/quizify/)
-
 </div>
 
 ## About 🧩
@@ -63,6 +61,3 @@ Contributions are welcome! If you find a bug or have a feature suggestion, pleas
 
 Quizify is released under the [MIT License](LICENSE).
 
-## Try It 🔍
-
-🔗 [daniel-szulc.github.io/quizify](https://daniel-szulc.github.io/quizify)
